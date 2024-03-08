@@ -1,4 +1,4 @@
-# 🌳개발바 이지은 포토폴리오
+# 🌳개발자 이지은 포토폴리오
 
 안녕하세요. 신입 개발자 이지은입니다. 중앙정보기술인재개발원에서 프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정을 이수하였습니다.
 
@@ -93,16 +93,19 @@
 # 👩🏻‍💻 Projects
 담당한 프로젝트를 최신순으로 구성했습니다. 각 이미지를 누르면 주요 내용 / 역할&기여도 / 기간 등을 확인할 수 있습니다.
 
-[주요 프로젝트 포트폴리오](https://www.notion.so/7625ff6fe7bf4714b27fed69de5edaeb?pvs=21)
+[주요 프로젝트 포트폴리오] - 이미지 클릭
+[![image](https://github.com/dkumylove/Portfolio/assets/146877364/69072392-5c2b-4fa9-bf9f-4c4bcd20e998)
+](https://www.notion.so/jieunroom/19e08b7c59e14a28837cc9da564a1d2f?pvs=4)
+
+[![image](https://github.com/dkumylove/Portfolio/assets/146877364/a2730ab5-4e07-41c7-901a-5fff9f9ec162)](https://www.notion.so/jieunroom/SOC-Savvy-Our-Choice-06cf2af32ee2448286343a1cd8e3e813?pvs=4)
+
 
 # 💫 About me
-- '이지은’ 블로그
+- '이지은’ 블로그 [- : 네이버 블로그](https://blog.naver.com/dkumylove)
 
-[- : 네이버 블로그](https://blog.naver.com/dkumylove)
+- '이지은' git hub [dkumylove - Overview](https://github.com/dkumylove)
 
-- '이지은' git hub
-
-[dkumylove - Overview](https://github.com/dkumylove)
+- '이지은' Notion [개발자 이지은 포트폴리오 ](https://www.notion.so/jieunroom/c554de74356a434e9d32fd4cd06d07d7?pvs=4)
 
 # 🙋🏻 How i work
 - 도전하는 자세
