@@ -93,10 +93,12 @@
 # 👩🏻‍💻 Projects
 담당한 프로젝트를 최신순으로 구성했습니다. 각 이미지를 누르면 주요 내용 / 역할&기여도 / 기간 등을 확인할 수 있습니다.
 
-[주요 프로젝트 포트폴리오] - 이미지 클릭
+[주요 프로젝트 포트폴리오] - 이미지 클릭[notion]<br>
+https://github.com/dkumylove/Team3Project
 [![image](https://github.com/dkumylove/Portfolio/assets/146877364/69072392-5c2b-4fa9-bf9f-4c4bcd20e998)
 ](https://www.notion.so/jieunroom/19e08b7c59e14a28837cc9da564a1d2f?pvs=4)
 
+https://github.com/PROJECT-SUNDO/sundo
 [![image](https://github.com/dkumylove/Portfolio/assets/146877364/a2730ab5-4e07-41c7-901a-5fff9f9ec162)](https://www.notion.so/jieunroom/SOC-Savvy-Our-Choice-06cf2af32ee2448286343a1cd8e3e813?pvs=4)
 
 
