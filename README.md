@@ -116,4 +116,15 @@ https://github.com/PROJECT-SUNDO/sundo
 - 포기하지 않는 자
 
 # 👋 Contact
-✉️ [d](mailto:marketing@wantedlab.com)kumylove@gmail.com   📱+82 10-3129-0149   🏠 서울 마포구
+<!--✉️ [d](mailto:marketing@wantedlab.com)kumylove@gmail.com   📱+82 10-3129-0149 🏠 서울 마포구-->  
+
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:dkumylove@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/s5QdnQqe">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    🏠 서울 마포구
+</div>
+
